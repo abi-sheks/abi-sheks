@@ -7,7 +7,16 @@
 </picture>
 
 ## About me
-I'm a developer just getting started. Love working on web dev (clearly), low level learning is something I also consistently pursue.
-Oh, also clearly a huge berserk fan.
+I'm a developer just getting started. Love working on web dev (clearly), low level learning is something I also consistently pursue.  
+Oh, also clearly a huge Berserk fan.
+
+
+> Think only about your art.
+>
+> -- <cite>Miyamoto Musashi (?)</cite> 
+
+
+
+
 
 
